@@ -1,0 +1,14 @@
+{
+  "name": "productos_router",
+  "version": "1.0.0",
+  "description": "Entrgable para productos con router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iliana Paris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
